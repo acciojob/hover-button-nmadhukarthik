@@ -5,6 +5,8 @@
 	background-color: black;
 	color: white;
 	border-radius: 5px;
+	border: none;
+	type: submit;
 	padding: 10px;
 	transition-duration: 0.5s;
 	cursor: pointer;
